@@ -1,5 +1,5 @@
 # HTMLPerformanceInterface
-JS function to do network performance testing  using HTML PerformanceInterface
+JS function to do network performance testing  using HTML PerformanceTiming Interface
 
 This function logs properties using Performance Timing interface info for various events which occur during loading and use of
 current page   
